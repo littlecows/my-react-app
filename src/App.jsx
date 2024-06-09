@@ -6,13 +6,14 @@
 // import ProfilePicture from './ProfilePicture.jsx';
 // import MyComponent from "./MyComponent";
 // import Counter from "./Counter";
-import MyComponent1 from "./MyComponent1";
+// import MyComponent1 from "./MyComponent1";
+import ColorPicker from "./ColorPicker";
 
 function App() {
 
   return (
     <>
-     <MyComponent1 />
+     <ColorPicker />
     </>
   );
 }
