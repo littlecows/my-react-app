@@ -131,7 +131,9 @@ input[type="color"]{
     border-radius: 10px;
     border: 3px solid hsl(0, 0%, 80%);
 } */
-body{
+
+
+/* body{
     background-color: hsl(0, 0%, 10%);
 }
 .to-do-list {
@@ -203,4 +205,4 @@ li{
     font-size: 1.4rem;
     margin-left: 10px;
 
-}
+} */
