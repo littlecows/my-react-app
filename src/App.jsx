@@ -9,13 +9,14 @@
 // import MyComponent1 from "./MyComponent1";
 // import ColorPicker from "./ColorPicker";
 // import Mycomponent2 from "./MyComponent2.jsx";
-import MyComponent3 from "./MyComponent3.jsx";
+// import MyComponent3 from "./MyComponent3.jsx";
+import MyComponent4 from "./MyComponent4";
 
 function App() {
 
   return (
     <>
-     <MyComponent3 />
+     <MyComponent4 />
     </>
   );
 }
