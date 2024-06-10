@@ -12,13 +12,14 @@
 // import MyComponent3 from "./MyComponent3.jsx";
 // import MyComponent4 from "./MyComponent4";
 // import ToDoList from "./ToDoList";
-import MyComponent5 from "./MyComponent5";
+// import MyComponent5 from "./MyComponent5";
+import DigitalClock from "./DigitalClock";
 
 function App() {
 
   return (
     <>
-     <MyComponent5 />
+     <DigitalClock />
     </>
   );
 }
