@@ -15,13 +15,14 @@
 // import MyComponent5 from "./MyComponent5";
 
 // import DigitalClock from "./DigitalClock";
-import ComponentA from "./ComponentA";
+// import ComponentA from "./ComponentA";
+import MyComponent6 from "./MyComponent6";
 
 function App() {
 
   return (
     <>
-     <ComponentA />
+     <MyComponent6 />
     </>
   );
 }
