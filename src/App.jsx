@@ -16,13 +16,14 @@
 
 // import DigitalClock from "./DigitalClock";
 // import ComponentA from "./ComponentA";
-import MyComponent6 from "./MyComponent6";
+// import MyComponent6 from "./MyComponent6";
+import Stopwatch from "./Stopwatch";
 
 function App() {
 
   return (
     <>
-     <MyComponent6 />
+     <Stopwatch />
     </>
   );
 }
